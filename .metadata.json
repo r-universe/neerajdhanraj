@@ -1,10 +1,10 @@
 [
   {
-    "package": "imputeTestbench",
+    "package": "PSF",
     "oncran": true
   },
   {
-    "package": "PSF",
+    "package": "imputeTestbench",
     "oncran": true
   }
 ]
