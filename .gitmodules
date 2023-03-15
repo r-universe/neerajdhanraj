@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PSF"]
-	path = PSF
-	url = https://github.com/neerajdhanraj/psf
-	shallow = true
-	registered = true
 [submodule "imputeTestbench"]
 	path = imputeTestbench
 	url = https://github.com/neerajdhanraj/imputetestbench
+	shallow = true
+	registered = true
+[submodule "PSF"]
+	path = PSF
+	url = https://github.com/neerajdhanraj/psf
 	shallow = true
 	registered = true
