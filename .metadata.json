@@ -1,6 +1,14 @@
 [
   {
+    "package": "ForecastTB",
+    "oncran": true
+  },
+  {
     "package": "imputeTestbench",
+    "oncran": true
+  },
+  {
+    "package": "Jaya",
     "oncran": true
   },
   {
