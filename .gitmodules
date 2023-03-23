@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "decomposedPSF"]
+	path = decomposedPSF
+	url = https://github.com/cran/decomposedPSF
+	shallow = true
+	registered = true
 [submodule "ForecastTB"]
 	path = ForecastTB
 	url = https://github.com/neerajdhanraj/forecasttb
@@ -21,5 +26,10 @@
 [submodule "PSF"]
 	path = PSF
 	url = https://github.com/neerajdhanraj/psf
+	shallow = true
+	registered = true
+[submodule "WindCurves"]
+	path = WindCurves
+	url = https://github.com/cran/WindCurves
 	shallow = true
 	registered = true
