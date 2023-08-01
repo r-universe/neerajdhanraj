@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "decomposedPSF"]
-	path = decomposedPSF
-	url = https://github.com/cran/decomposedPSF
 [submodule "ForecastTB"]
 	path = ForecastTB
 	url = https://github.com/neerajdhanraj/forecasttb
-[submodule "imputeTestbench"]
-	path = imputeTestbench
-	url = https://github.com/neerajdhanraj/imputetestbench
 [submodule "Jaya"]
 	path = Jaya
 	url = https://github.com/neerajdhanraj/jaya
@@ -20,3 +14,9 @@
 [submodule "WindCurves"]
 	path = WindCurves
 	url = https://github.com/cran/WindCurves
+[submodule "decomposedPSF"]
+	path = decomposedPSF
+	url = https://github.com/cran/decomposedPSF
+[submodule "imputeTestbench"]
+	path = imputeTestbench
+	url = https://github.com/neerajdhanraj/imputetestbench
