@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ForecastTB"]
-	path = ForecastTB
-	url = https://github.com/neerajdhanraj/forecasttb
 [submodule "Jaya"]
 	path = Jaya
 	url = https://github.com/neerajdhanraj/jaya
